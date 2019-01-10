@@ -7,5 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "galathos",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^10.12.18",
+    "atob": "^2.1.2",
+    "pako": "^1.0.7",
+    "zlib": "^1.0.5"
+  },
+  "devDependencies": {
+    "@types/pako": "^1.0.0"
+  }
 }
