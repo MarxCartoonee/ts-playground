@@ -1,1 +1,7 @@
-index.js
+*.js
+package-lock.json
+/node_modules
+.vscode
+.vscode/*
+.DS_Store
+Thumbs.db
